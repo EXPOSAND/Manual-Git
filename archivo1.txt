@@ -1,7 +1,11 @@
 hola, como estas
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Rama1? Rama1? rama1????
 =======
 Rama1? Rama1?
+>>>>>>> rama1
+=======
+Rama1? Rama1? rama1????sakdalskd
 >>>>>>> rama1
