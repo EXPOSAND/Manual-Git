@@ -1,3 +1,11 @@
-hola, como estas
+noveno commit. Fusion ramas
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+Rama1? Rama1? rama1????
+=======
+Rama1? Rama1?
+>>>>>>> rama1
+=======
 Rama1? Rama1? rama1????sakdalskd
+>>>>>>> rama1
